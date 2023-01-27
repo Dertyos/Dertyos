@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **an eCommerce project for my bootcamp at 4geeks**
 
-- 🌱 I’m currently learning **Python, Flask, React, SQL, JS, etc.**
-
 - 👯 I’m looking to collaborate on **web development projects that involves a lot of Python, Flask, React, JS, etc.**
 
 - 🤝 I’m looking to get **professional experience in this field.**
