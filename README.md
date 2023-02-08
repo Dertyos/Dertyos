@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julián</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Julian</h1>
 <h3 align="center">A passionate Full Stack Software Developer</h3>
 
 - 🔭 I’m currently working on **an eCommerce project for my bootcamp at 4geeks**
