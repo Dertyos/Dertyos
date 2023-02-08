@@ -1,6 +1,8 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Julian</h1>
 <h3 align="center">A passionate Full Stack Software Developer</h3>
 
+
+https://res.cloudinary.com/practicaldev/image/fetch/s--rV1CmS8C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9yn7vhjsvzhgi0w9p7he.gif
 - 🔭 I’m currently working on **an eCommerce project for my bootcamp at 4geeks**
 
 - 👯 I’m looking to collaborate on **web development projects that involves a lot of Python, Flask, React, JS, etc.**
