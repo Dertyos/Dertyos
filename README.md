@@ -2,11 +2,16 @@
 <h3 align="center">A passionate Full Stack Software Developer</h3>
 
 <img align='right' src="https://res.cloudinary.com/practicaldev/image/fetch/s--rV1CmS8C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9yn7vhjsvzhgi0w9p7he.gif" width="230">
+
 - 🔭 I’m currently working on **an eCommerce project for my bootcamp at 4geeks**
 
-- 👯 I’m looking to collaborate on **web development projects that involves a lot of Python, Flask, React, JS, etc.**
+- 👯 I'm looking to collaborate on web development projects that involve a lot of Python, Flask, React, JS, etc.
 
-- 🤝 I’m looking to get **professional experience in this field.**
+- 🤝 I’m looking for professional experience in the field, and I'm eager to learn, grow, and take on new challenges Whether it's a small website or a complex web application, I'm confident that I can provide you with exceptional quality work.
+
+Furthermore, I'm enthusiastic about learning new technologies and tackling any challenges that come my way. I'm always up for a challenge and strive to deliver the highest quality code possible.
+
+If you're looking for a reliable and motivated software developer, I'm confident I can help you with your project. I look forward to discussing the details and finding a way to collaborate.
 
 ### Let's connect ? 🤝
 
