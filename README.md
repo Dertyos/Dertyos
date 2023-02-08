@@ -10,8 +10,7 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/julian-david-salcedo"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdtwitter"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/julian-david-salcedo"><img src="https://img.shields.io/badge/-juliansalcedo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:juliansalcedo4@gmail.com"><img src="https://img.shields.io/badge/-juliansalcedo4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
